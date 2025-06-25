@@ -1,14 +1,8 @@
-# User Story Template
+Account registration
+As a user, I want to register with my name, username, age, and country so that I can create an account and access the habit tracking features.
 
-**Title:**
-_As a [user role], I want [feature/goal], so that [reason]._
+Account login
+As a user, I want to log in using my username and password so that I can access my account and track my habits.
 
-**Acceptance Criteria:**
-1. [Criteria 1]
-2. [Criteria 2]
-3. [Criteria 3]
-
-**Priority:** [High/Medium/Low]
-**Story Points:** [Estimated Effort in Points]
-**Notes:**
-- [Additional information or edge cases]
+Error feedback on login
+As a user, I want to receive a message if I enter the wrong username or password so that I know my login attempt was unsuccessful.
